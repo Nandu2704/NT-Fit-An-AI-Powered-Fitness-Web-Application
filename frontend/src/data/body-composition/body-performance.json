@@ -1,0 +1,29 @@
+[
+  {
+    "age": 25,
+    "gender": "M",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "body_fat": 15.5,
+    "bmi": 22.9,
+    "class": "A"
+  },
+  {
+    "age": 30,
+    "gender": "F",
+    "height_cm": 165,
+    "weight_kg": 60,
+    "body_fat": 18.2,
+    "bmi": 22.0,
+    "class": "B"
+  },
+  {
+    "age": 35,
+    "gender": "M",
+    "height_cm": 180,
+    "weight_kg": 85,
+    "body_fat": 22.1,
+    "bmi": 26.2,
+    "class": "C"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Chicken Breast",
+    "calories": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fats": 3.6,
+    "fiber": 0,
+    "sugar": 0,
+    "amount": "100g"
+  },
+  {
+    "name": "Brown Rice",
+    "calories": 112,
+    "protein": 2.6,
+    "carbs": 23,
+    "fats": 0.9,
+    "fiber": 1.8,
+    "sugar": 0.4,
+    "amount": "100g"
+  },
+  {
+    "name": "Greek Yogurt",
+    "calories": 59,
+    "protein": 10,
+    "carbs": 3.6,
+    "fats": 0.4,
+    "fiber": 0,
+    "sugar": 3.6,
+    "amount": "100g"
+  },
+  {
+    "name": "Salmon",
+    "calories": 208,
+    "protein": 22,
+    "carbs": 0,
+    "fats": 13,
+    "fiber": 0,
+    "sugar": 0,
+    "amount": "100g"
+  },
+  {
+    "name": "Sweet Potato",
+    "calories": 86,
+    "protein": 1.6,
+    "carbs": 20,
+    "fats": 0.1,
+    "fiber": 3.8,
+    "sugar": 4.2,
+    "amount": "100g"
+  },
+  {
+    "name": "Spinach",
+    "calories": 23,
+    "protein": 2.9,
+    "carbs": 3.6,
+    "fats": 0.4,
+    "fiber": 2.2,
+    "sugar": 0.4,
+    "amount": "100g"
+  },
+  {
+    "name": "Almonds",
+    "calories": 579,
+    "protein": 21,
+    "carbs": 22,
+    "fats": 50,
+    "fiber": 12,
+    "sugar": 4.4,
+    "amount": "100g"
+  },
+  {
+    "name": "Banana",
+    "calories": 89,
+    "protein": 1.1,
+    "carbs": 23,
+    "fats": 0.3,
+    "fiber": 2.6,
+    "sugar": 12,
+    "amount": "100g"
+  },
+  {
+    "name": "Eggs",
+    "calories": 155,
+    "protein": 13,
+    "carbs": 1.1,
+    "fats": 11,
+    "fiber": 0,
+    "sugar": 0.6,
+    "amount": "100g"
+  },
+  {
+    "name": "Oatmeal",
+    "calories": 68,
+    "protein": 2.4,
+    "carbs": 12,
+    "fats": 1.4,
+    "fiber": 1.7,
+    "sugar": 0.6,
+    "amount": "100g"
+  }
+]

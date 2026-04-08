@@ -1,0 +1,20 @@
+# Models
+backend/model/
+*.h5
+
+# Uploads
+uploads/
+*.zip
+
+# Python
+venv/
+__pycache__/
+
+# Frontend
+node_modules/
+frontend/node_modules/
+dist/
+build/
+
+# Env
+.env

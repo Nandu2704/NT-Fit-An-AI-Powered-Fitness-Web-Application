@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Push-ups",
+    "bodyPart": "chest",
+    "equipment": "bodyweight",
+    "target": "chest",
+    "instructions": [
+      "Start in a plank position with hands shoulder-width apart",
+      "Lower your body until your chest nearly touches the floor",
+      "Push yourself back up to the starting position",
+      "Repeat for desired reps"
+    ],
+    "difficulty": "Easy",
+    "gifUrl": "https://example.com/pushup.gif"
+  },
+  {
+    "name": "Bench Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest",
+    "instructions": [
+      "Lie on bench with feet flat on floor",
+      "Grip barbell with hands shoulder-width apart",
+      "Lower bar to chest with control",
+      "Press bar up until arms are fully extended",
+      "Repeat for desired reps"
+    ],
+    "difficulty": "Medium",
+    "gifUrl": "https://example.com/bench-press.gif"
+  },
+  {
+    "name": "Squats",
+    "bodyPart": "legs",
+    "equipment": "bodyweight",
+    "target": "legs",
+    "instructions": [
+      "Stand with feet shoulder-width apart",
+      "Lower your body as if sitting back into a chair",
+      "Keep chest up and knees behind toes",
+      "Push through heels to return to standing",
+      "Repeat for desired reps"
+    ],
+    "difficulty": "Easy",
+    "gifUrl": "https://example.com/squat.gif"
+  }
+]

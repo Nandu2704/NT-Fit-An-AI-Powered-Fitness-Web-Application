@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Push-ups",
+    "bodyPart": "chest",
+    "equipment": "bodyweight",
+    "target": "chest",
+    "instructions": [
+      "Start in plank position",
+      "Lower chest to ground",
+      "Push back up"
+    ],
+    "difficulty": "Easy",
+    "gifUrl": ""
+  },
+  {
+    "name": "Squats",
+    "bodyPart": "legs",
+    "equipment": "bodyweight",
+    "target": "legs",
+    "instructions": [
+      "Stand with feet apart",
+      "Lower as if sitting",
+      "Stand back up"
+    ],
+    "difficulty": "Easy",
+    "gifUrl": ""
+  },
+  {
+    "name": "Bench Press",
+    "bodyPart": "chest",
+    "equipment": "barbell",
+    "target": "chest",
+    "instructions": [
+      "Lie on bench",
+      "Grip barbell",
+      "Lower to chest",
+      "Press up"
+    ],
+    "difficulty": "Medium",
+    "gifUrl": ""
+  },
+  {
+    "name": "Deadlift",
+    "bodyPart": "back",
+    "equipment": "barbell",
+    "target": "back",
+    "instructions": [
+      "Stand over barbell",
+      "Grip bar",
+      "Lift with straight back",
+      "Stand tall"
+    ],
+    "difficulty": "Hard",
+    "gifUrl": ""
+  },
+  {
+    "name": "Pull-ups",
+    "bodyPart": "back",
+    "equipment": "bodyweight",
+    "target": "back",
+    "instructions": [
+      "Hang from bar",
+      "Pull up until chin over bar",
+      "Lower down"
+    ],
+    "difficulty": "Medium",
+    "gifUrl": ""
+  },
+  {
+    "name": "Lunges",
+    "bodyPart": "legs",
+    "equipment": "bodyweight",
+    "target": "legs",
+    "instructions": [
+      "Step forward",
+      "Lower back knee",
+      "Push back to start"
+    ],
+    "difficulty": "Easy",
+    "gifUrl": ""
+  },
+  {
+    "name": "Shoulder Press",
+    "bodyPart": "shoulders",
+    "equipment": "dumbbells",
+    "target": "shoulders",
+    "instructions": [
+      "Hold dumbbells at shoulders",
+      "Press overhead",
+      "Lower to shoulders"
+    ],
+    "difficulty": "Medium",
+    "gifUrl": ""
+  },
+  {
+    "name": "Bicep Curls",
+    "bodyPart": "arms",
+    "equipment": "dumbbells",
+    "target": "biceps",
+    "instructions": [
+      "Hold dumbbells",
+      "Curl up to shoulders",
+      "Lower down"
+    ],
+    "difficulty": "Easy",
+    "gifUrl": ""
+  },
+  {
+    "name": "Tricep Dips",
+    "bodyPart": "arms",
+    "equipment": "bodyweight",
+    "target": "triceps",
+    "instructions": [
+      "Sit on edge",
+      "Lower body",
+      "Push back up"
+    ],
+    "difficulty": "Medium",
+    "gifUrl": ""
+  },
+  {
+    "name": "Planks",
+    "bodyPart": "core",
+    "equipment": "bodyweight",
+    "target": "core",
+    "instructions": [
+      "Hold plank position",
+      "Keep body straight",
+      "Breathe steadily"
+    ],
+    "difficulty": "Easy",
+    "gifUrl": ""
+  }
+]

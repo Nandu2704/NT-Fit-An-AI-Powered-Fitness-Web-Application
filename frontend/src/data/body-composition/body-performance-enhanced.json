@@ -1,0 +1,74 @@
+[
+  {
+    "age": 25,
+    "gender": "M",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "body_fat": 15.5,
+    "bmi": 22.9,
+    "class": "A"
+  },
+  {
+    "age": 30,
+    "gender": "F",
+    "height_cm": 165,
+    "weight_kg": 60,
+    "body_fat": 18.2,
+    "bmi": 22.0,
+    "class": "B"
+  },
+  {
+    "age": 35,
+    "gender": "M",
+    "height_cm": 180,
+    "weight_kg": 85,
+    "body_fat": 22.1,
+    "bmi": 26.2,
+    "class": "C"
+  },
+  {
+    "age": 28,
+    "gender": "F",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "body_fat": 20.5,
+    "bmi": 22.5,
+    "class": "B"
+  },
+  {
+    "age": 40,
+    "gender": "M",
+    "height_cm": 172,
+    "weight_kg": 78,
+    "body_fat": 19.8,
+    "bmi": 26.4,
+    "class": "C"
+  },
+  {
+    "age": 22,
+    "gender": "F",
+    "height_cm": 168,
+    "weight_kg": 55,
+    "body_fat": 16.8,
+    "bmi": 19.5,
+    "class": "A"
+  },
+  {
+    "age": 33,
+    "gender": "M",
+    "height_cm": 178,
+    "weight_kg": 82,
+    "body_fat": 21.2,
+    "bmi": 25.9,
+    "class": "C"
+  },
+  {
+    "age": 27,
+    "gender": "F",
+    "height_cm": 162,
+    "weight_kg": 58,
+    "body_fat": 19.1,
+    "bmi": 22.1,
+    "class": "B"
+  }
+]
